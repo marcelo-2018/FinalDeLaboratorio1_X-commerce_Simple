@@ -1,0 +1,117 @@
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.exe
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.pdb
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csprojAssemblyReference.cache
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Cliente.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.CuentaCorriente.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Login.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Marca.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevaMarca.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevoProducto.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevoRubro.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.PagarCuentaCorriente.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Principal.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Producto.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.fPuntoVenta.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Properties.Resources.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Rubro.resources
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csproj.GenerateResource.cache
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csproj.CoreCompileInputs.cache
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.exe
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.pdb
+D:\Tecnicatura en Programacion\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.LookUpProducto.resources
+D:\s\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+D:\s\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.exe
+D:\s\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.pdb
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csprojAssemblyReference.cache
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Cliente.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.CuentaCorriente.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Login.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.LookUpProducto.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Marca.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevaMarca.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevoProducto.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevoRubro.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.PagarCuentaCorriente.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Principal.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Producto.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.fPuntoVenta.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Properties.Resources.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Rubro.resources
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csproj.GenerateResource.cache
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csproj.CoreCompileInputs.cache
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.exe
+D:\s\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.pdb
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.exe
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csprojAssemblyReference.cache
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Cliente.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.CuentaCorriente.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Login.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.LookUpProducto.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Marca.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevaMarca.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevoProducto.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevoRubro.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.PagarCuentaCorriente.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Principal.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Producto.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.fPuntoVenta.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Properties.Resources.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Rubro.resources
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csproj.GenerateResource.cache
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.exe
+C:\Users\abel1\Desktop\Tecnicatura\Laboratorio 1\Final Labo 1 - 2019\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.pdb
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.exe
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csprojAssemblyReference.cache
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Cliente.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.CuentaCorriente.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Login.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.LookUpProducto.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Marca.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevaMarca.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevoProducto.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevoRubro.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.PagarCuentaCorriente.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Principal.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Producto.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.fPuntoVenta.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Properties.Resources.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Rubro.resources
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csproj.GenerateResource.cache
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csproj.CoreCompileInputs.cache
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.exe
+C:\Marcelo\Tec Programacion\Laboratorio 1\Final\Final\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.pdb
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.exe
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csprojAssemblyReference.cache
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Login.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.LookUpProducto.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevaMarca.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevoProducto.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevoRubro.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.PagarCuentaCorriente.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Principal.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.fPuntoVenta.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Properties.Resources.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csproj.GenerateResource.cache
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.csproj.CoreCompileInputs.cache
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.exe
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.pdb
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.ConsultaMarca.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.ConsultaRubro.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.ConsultaProducto.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.ModificarProducto.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.ConsultaCliente.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.NuevoCliente.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.ModificarCliente.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.ConsultaFactura.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.Facturar.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.ConsultaCuentaCorriente.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.ModificarMarca.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 1\Final\Final actual\SegundoParcial2\SegundoParcial\obj\Debug\SegundoParcial.ModificarRubro.resources
